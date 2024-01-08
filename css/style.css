@@ -597,7 +597,7 @@ h3.status span{
     width: 80%;
     transform: translate(-50%, -50%);
     color: var(--text-blue-section);
-    font-size: 1.4vw; /* Utilisation de vw (viewport width) pour une taille de police relative à la largeur de l'écran */
+    font-size: 1.2vw; /* Utilisation de vw (viewport width) pour une taille de police relative à la largeur de l'écran */
     text-align: center;
     font-weight: bold;
     z-index: 2;
@@ -607,7 +607,7 @@ h3.status span{
 }
 
 .text-overlay span{
-    font-size: 1.7vw;
+    font-size: 1.4vw;
     color: var(--text-blue-nav);
 }
 
